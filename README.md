@@ -1,6 +1,6 @@
 # mongobot
 
-[![ci](https://github.com/JavierHamelyn/mongobot/actions/workflows/ci.yml/badge.svg)](https://github.com/JavierHamelyn/mongobot/actions/workflows/ci.yml)
+[![ci](https://github.com/Hamelyn-SL/mongobot/actions/workflows/ci.yml/badge.svg)](https://github.com/Hamelyn-SL/mongobot/actions/workflows/ci.yml)
 
 In-database observability for MongoDB — a [pgbot](https://github.com/pgrundev/pgbot) for Mongo.
 
@@ -37,7 +37,7 @@ GOOD
 ## Quickstart
 
 ```bash
-git clone https://github.com/JavierHamelyn/mongobot && cd mongobot
+git clone https://github.com/Hamelyn-SL/mongobot && cd mongobot
 npm install
 
 export MONGO_URL="mongodb+srv://monitor_user:…@cluster.mongodb.net/MyDb"
