@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/Hamelyn-SL/mongobot/actions/workflows/ci.yml/badge.svg)](https://github.com/Hamelyn-SL/mongobot/actions/workflows/ci.yml)
 
+> **Status: frozen.** mongobot is no longer under active development: 0.2.0 is
+> the last planned release. The code stays public and MIT-licensed as it is;
+> issues and pull requests may go unanswered.
+
 In-database observability for MongoDB — a [pgbot](https://github.com/pgrundev/pgbot) for Mongo.
 
 One read-only CLI connects to your cluster, reads MongoDB's **own counters**
